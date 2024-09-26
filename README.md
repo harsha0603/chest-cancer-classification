@@ -53,6 +53,18 @@ with mlflow.start_run():
   mlflow.log_param('parameter name', 'value')
   mlflow.log_metric('metric name', 1)
 ``` 
+
+## DVC Commands
+
+``` bash 
+dvc init
 ```
-aef88c752cc97330feef4eb05e7e608bc939cecf
+```bash
+dvc repro
 ```
+
+## User interface 
+![alt text](image.png)
+
+
+![alt text](image-1.png)
