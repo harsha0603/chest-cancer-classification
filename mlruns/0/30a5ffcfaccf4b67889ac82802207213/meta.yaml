@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsha/Desktop/chest-cancer-classification/mlruns/0/30a5ffcfaccf4b67889ac82802207213/artifacts
+end_time: 1727376166393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30a5ffcfaccf4b67889ac82802207213
+run_name: charming-bird-481
+run_uuid: 30a5ffcfaccf4b67889ac82802207213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727376143555
+status: 3
+tags: []
+user_id: Harsha
