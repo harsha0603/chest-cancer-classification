@@ -44,3 +44,15 @@ pip install -r requirements.txt
 ```
 
 
+``` bash
+import dagshub
+dagshub.init(repo_owner='harsha0603', repo_name='chest-cancer-classification', mlflow=True)
+
+import mlflow
+with mlflow.start_run():
+  mlflow.log_param('parameter name', 'value')
+  mlflow.log_metric('metric name', 1)
+``` 
+```
+aef88c752cc97330feef4eb05e7e608bc939cecf
+```
