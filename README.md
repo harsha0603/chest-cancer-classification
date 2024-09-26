@@ -64,7 +64,8 @@ dvc repro
 ```
 
 ## User interface 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/57f13415-9ac0-4407-8bfc-ef6596b8b397)
 
 
-![alt text](image-1.png)
+
+![image](https://github.com/user-attachments/assets/d5ac0163-9644-47c4-954f-623e4711ab75)
