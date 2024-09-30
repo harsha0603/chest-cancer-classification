@@ -63,4 +63,16 @@ dvc init
 dvc repro
 ```
 
+<<<<<<< HEAD
 
+=======
+## User interface 
+![image](https://github.com/user-attachments/assets/57f13415-9ac0-4407-8bfc-ef6596b8b397)
+
+
+
+![image](https://github.com/user-attachments/assets/0f924305-ea54-427c-af66-e7a5669f2dcb)
+
+
+
+>>>>>>> 6b7023a824334ee7d96f15af37a34b26508d5a10
