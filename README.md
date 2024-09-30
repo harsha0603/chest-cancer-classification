@@ -147,7 +147,9 @@ dvc repro
 
     ECR_REPOSITORY_NAME = 
 
-    Here you can see CICD status
+    
+    
+## Here you can see CICD status
 ![image](https://github.com/user-attachments/assets/7a81fa0b-6e74-4dec-97e9-abbd2ec26beb)
 
 ![image](https://github.com/user-attachments/assets/686bf3d2-373a-4c13-ad4c-23a99db91300)
